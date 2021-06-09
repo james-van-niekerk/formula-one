@@ -1,0 +1,21 @@
+lockfileVersion: 5.3
+
+specifiers:
+  chart.js: ^3.3.2
+  pnpm: ^6.7.4
+
+dependencies:
+  chart.js: 3.3.2
+  pnpm: 6.7.4
+
+packages:
+
+  /chart.js/3.3.2:
+    resolution: {integrity: sha512-H0hSO7xqTIrwxoACqnSoNromEMfXvfuVnrbuSt2TuXfBDDofbnto4zuZlRtRvC73/b37q3wGAWZyUU41QPvNbA==}
+    dev: false
+
+  /pnpm/6.7.4:
+    resolution: {integrity: sha512-XdVdy9s2IL84SEWeHGg9nVr5hVF3Nim05UXqtrst1FS5PJdQM+uDazgHIaFMIpPvvWRt5cPYuFj70dOMX6jZCQ==}
+    engines: {node: '>=12.17'}
+    hasBin: true
+    dev: false

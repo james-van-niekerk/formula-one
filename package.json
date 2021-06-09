@@ -1,0 +1,15 @@
+{
+  "name": "formula-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.3.2",
+    "pnpm": "^6.7.4"
+  }
+}
